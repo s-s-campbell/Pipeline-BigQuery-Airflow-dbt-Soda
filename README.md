@@ -66,7 +66,6 @@ The project follows a modern data stack architecture:
 
 ## Project Structure
 ```
-```
 Pipeline-BigQuery-Airflow-dbt-Soda
 ├─ .dockerignore
 ├─ dags
