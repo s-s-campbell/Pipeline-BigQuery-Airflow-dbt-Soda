@@ -11,3 +11,5 @@ airflow.cfg
 airflow.db
 include/soda/configuration.yml
 include/gcp/service_account.json
+include/dbt/target/run_results.json
+include/dbt/target/manifest.json
