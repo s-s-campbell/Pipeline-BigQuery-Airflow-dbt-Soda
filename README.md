@@ -141,5 +141,8 @@ Pipeline-BigQuery-Airflow-dbt-Soda
 
 **Security Note:** All configuration files containing sensitive information and secrets have been withheld from this repository for security reasons. Users will need to create their own configuration files with appropriate credentials.
 
+## Dashboard
+![Dashboard Screenshot](docs/report/Retail_Data_Analytics-1.png)
+
 ## Acknowledgements
 This project was completed following the tutorial guidelines from the [Retail Project](https://robust-dinosaur-2ef.notion.site/PUBLIC-Retail-Project-af398809b643495e851042fa293ffe5b) created by the original author. The implementation follows the architecture and approaches outlined in the tutorial, with modifications.
